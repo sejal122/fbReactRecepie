@@ -1,0 +1,8 @@
+.container-fluid{
+    display:flex;
+    flex-wrap: wrap;
+}
+.image img{
+    width: 40%;
+    height: 50%;
+}
